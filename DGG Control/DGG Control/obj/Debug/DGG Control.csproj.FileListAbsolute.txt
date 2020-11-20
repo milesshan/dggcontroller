@@ -1,0 +1,18 @@
+C:\Users\soft_1\Documents\Visual Studio 2015\Projects\DGG Control\DGG Control\bin\Debug\DGG Control.exe.config
+C:\Users\soft_1\Documents\Visual Studio 2015\Projects\DGG Control\DGG Control\bin\Debug\DGG Control.exe
+C:\Users\soft_1\Documents\Visual Studio 2015\Projects\DGG Control\DGG Control\bin\Debug\DGG Control.pdb
+C:\Users\soft_1\Documents\Visual Studio 2015\Projects\DGG Control\DGG Control\obj\Debug\DGG Control.csprojResolveAssemblyReference.cache
+C:\Users\soft_1\Documents\Visual Studio 2015\Projects\DGG Control\DGG Control\obj\Debug\DGG_Control.Form1.resources
+C:\Users\soft_1\Documents\Visual Studio 2015\Projects\DGG Control\DGG Control\obj\Debug\DGG_Control.Properties.Resources.resources
+C:\Users\soft_1\Documents\Visual Studio 2015\Projects\DGG Control\DGG Control\obj\Debug\DGG Control.csproj.GenerateResource.Cache
+C:\Users\soft_1\Documents\Visual Studio 2015\Projects\DGG Control\DGG Control\obj\Debug\DGG Control.exe
+C:\Users\soft_1\Documents\Visual Studio 2015\Projects\DGG Control\DGG Control\obj\Debug\DGG Control.pdb
+C:\sandbox\DGG Control\DGG Control\bin\Debug\DGG Control.exe.config
+C:\sandbox\DGG Control\DGG Control\bin\Debug\DGG Control.exe
+C:\sandbox\DGG Control\DGG Control\bin\Debug\DGG Control.pdb
+C:\sandbox\DGG Control\DGG Control\obj\Debug\DGG_Control.Form1.resources
+C:\sandbox\DGG Control\DGG Control\obj\Debug\DGG_Control.Properties.Resources.resources
+C:\sandbox\DGG Control\DGG Control\obj\Debug\DGG Control.csproj.GenerateResource.cache
+C:\sandbox\DGG Control\DGG Control\obj\Debug\DGG Control.csproj.CoreCompileInputs.cache
+C:\sandbox\DGG Control\DGG Control\obj\Debug\DGG Control.exe
+C:\sandbox\DGG Control\DGG Control\obj\Debug\DGG Control.pdb
